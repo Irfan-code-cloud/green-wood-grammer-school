@@ -1328,7 +1328,7 @@ const Footer = ({ onOpenLegal }) => (
                   <GithubIcon size={14} />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/irfan-khattak-00b847251"
+                  href="https://www.linkedin.com/in/irfan-khattak"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-amber-400 transition-colors"
